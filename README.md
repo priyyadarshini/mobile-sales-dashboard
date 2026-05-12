@@ -6,11 +6,13 @@ This project analyzes mobile sales data using Python and Tableau. The dashboard 
 
 ## Tools Used
 - Python
-- Numpy
 - Pandas
+- NumPy
+- Matplotlib
 - Seaborn
-- Sqlite3
+- SQLite3
 - Tableau Public
+- Jupyter Notebook
 
 
 ## Features
@@ -24,10 +26,30 @@ This project analyzes mobile sales data using Python and Tableau. The dashboard 
 
 
 ## Project Workflow
-1. Data Cleaning using Python
+1. Data Cleaning using Pandas
 2. Exploratory Data Analysis (EDA)
-3. Data Visualization in Tableau
-4. Interactive Dashboard Design
+3. Data Visualization using Matplotlib and Seaborn
+4. SQL integration using SQLite3
+5. Interactive Dashboard creation in Tableau
+
+
+## Dashboard Features
+- KPI Cards
+- Top 10 Brands Analysis
+- Monthly Sales Trend
+- Sales by RAM Configuration
+- Profit by Brand
+- Region-wise Sales Analysis
+- Interactive Filtering
+
+
+## Skills Demonstrated
+- Data Cleaning
+- Data Analysis
+- SQL Queries
+- Data Visualization
+- Dashboard Design
+- Business Insights
 
 
 ## Key Insights
