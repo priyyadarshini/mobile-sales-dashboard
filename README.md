@@ -7,6 +7,8 @@ This project analyzes mobile sales data using Python and Tableau. The dashboard 
 ## Tools Used
 - Python
 - Pandas
+- Seaborn
+- SQL
 - Tableau Public
 
 
